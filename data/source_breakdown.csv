@@ -1,0 +1,49 @@
+source_x,paper_count
+Medline; PMC,148415
+PMC,76777
+Medline,76650
+Medline; PMC; WHO,65487
+Elsevier; Medline; PMC,48712
+Elsevier; Medline; PMC; WHO,19657
+MedRxiv; WHO,13523
+Medline; WHO,11546
+Elsevier; PMC,8442
+Elsevier; PMC; WHO,6561
+PMC; WHO,6038
+MedRxiv,4754
+BioRxiv; WHO,3704
+BioRxiv,3600
+ArXiv,1305
+MedRxiv; Medline; PMC; WHO,957
+BioRxiv; Medline; PMC; WHO,704
+BioRxiv; Medline; WHO,402
+MedRxiv; Medline; WHO,388
+Elsevier,358
+BioRxiv; MedRxiv,249
+ArXiv; Medline; PMC,237
+ArXiv; WHO,208
+ArXiv; Medline,177
+ArXiv; Medline; PMC; WHO,174
+ArXiv; Medline; WHO,124
+MedRxiv; Medline; PMC,102
+BioRxiv; Medline; PMC,88
+BioRxiv; MedRxiv; WHO,73
+ArXiv; Elsevier; Medline; PMC,68
+Elsevier; Medline,57
+ArXiv; Elsevier; Medline; PMC; WHO,44
+BioRxiv; Medline,34
+MedRxiv; Medline,23
+ArXiv; Elsevier; PMC,11
+ArXiv; PMC,11
+MedRxiv; PMC,10
+BioRxiv; MedRxiv; Medline; WHO,9
+Elsevier; WHO,8
+ArXiv; PMC; WHO,5
+BioRxiv; MedRxiv; Medline; PMC; WHO,5
+Elsevier; Medline; WHO,4
+BioRxiv; MedRxiv; Medline; PMC,4
+ArXiv; Elsevier,2
+MedRxiv; PMC; WHO,2
+ArXiv; MedRxiv; WHO,2
+ArXiv; Elsevier; PMC; WHO,2
+ArXiv; MedRxiv,1
